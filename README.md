@@ -5,7 +5,7 @@
 # ⛓ Find the maximum length of a substring with all unique characters
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
-![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+![Python](https://img.shields.io/badge/RStudio-4.5.0%2B-lightblue)
 ![Last Updated](https://img.shields.io/github/last-commit/vegacastillo/Find-Longest-Substrings-With-Unique-Chars)
 ![Language](https://img.shields.io/badge/language-español-darkred)
 
@@ -23,7 +23,7 @@
 
 **My code in R** **for this challenge**
 
- 🔗 https://github.com/vegacastilloe/Project-Allocated-to-Employees/blob/main/project_allocated_to_employees.py
+ 🔗 https://github.com/vegacastillo/Find-Longest-Substrings-With-Unique-Chars/blob/main/Longest_Substrings_With_Unique_Chars.r
 
 ---
 ---
