@@ -1,7 +1,3 @@
-## 🌟 **Author**: Omid Motamedisedeh 🌟
----
----
-
 # ⛓ Find the maximum length of a substring with all unique characters
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
